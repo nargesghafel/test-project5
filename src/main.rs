@@ -14,6 +14,9 @@ fn main() {
         }
     };
 
+
+
+  // i want to make sure that the age is between 1 and 100
     print!("Hello! My name is {} and I'm {} years old.", name.trim() , age);
     
 }
